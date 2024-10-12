@@ -4,7 +4,6 @@ const asyncHandler = require('express-async-Handler');
 const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 
-
 //desc get all users
 //route get /users
 //access private 
